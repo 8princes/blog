@@ -28,6 +28,8 @@ https://hexo.io/zh-cn/docs/writing
 ```
 # 约定 <title> = [language] + [type] + [bug] + [any]
 hexo new post <title>
+Like this: hexo new post python-基础语法-多余的逗号
+Then use the markdown tool to write your article.
 
 
 ```
@@ -53,4 +55,3 @@ hexo generate
 # 发布静态页面
 hexo deploy
 ```
-
