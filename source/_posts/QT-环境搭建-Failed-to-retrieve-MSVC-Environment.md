@@ -12,7 +12,7 @@ QT installer 提示有新的版本，emmmmm...点完确认更新之后的 0.1s �
 
 <!-- more -->
 
-*Failed to retrieve MSVC Environment！！！mother f...*
+*Failed to retrieve MSVC Environment！！！*
 
 掏出万能的 Stack Overflow https://stackoverflow.com/questions/46951357/qt-creator-on-win-10-failed-to-retrieve-msvc-environment
 
