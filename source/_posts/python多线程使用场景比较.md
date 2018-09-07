@@ -14,7 +14,6 @@ tags:
 
 > 而***python***在io阻塞的情况下，会释放**GIL**锁，其他线程会在当前线程等待返回值（阻塞）的情况下继续执行发送请求（output），第三个线程又会在第二个线程等待返回值（阻塞）的情况下发送请求（output），即在同一时间片段，会有一个线程在等待数据，也会有一个线程在发数据。这就减少了io传输的时间。
 
-![threading pic](/source/images/python_threading_io.png)
 
 ## CPU密集型任务
 
